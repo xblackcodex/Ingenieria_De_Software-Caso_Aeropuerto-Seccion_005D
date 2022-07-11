@@ -1,0 +1,5 @@
+CREDENCIAL ADMINISTRADOR:
+------------------------
+USER: admin
+PASS: 12345
+------------------------
